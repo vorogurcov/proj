@@ -1,0 +1,17 @@
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\bin\Debug\net8.0-windows\GrowingGuys_game.exe
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\bin\Debug\net8.0-windows\GrowingGuys_game.deps.json
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\bin\Debug\net8.0-windows\GrowingGuys_game.runtimeconfig.json
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\bin\Debug\net8.0-windows\GrowingGuys_game.dll
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\bin\Debug\net8.0-windows\GrowingGuys_game.pdb
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.MainForm.resources
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.csproj.GenerateResource.cache
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.AssemblyInfoInputs.cache
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.AssemblyInfo.cs
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.csproj.CoreCompileInputs.cache
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.dll
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\refint\GrowingGuys_game.dll
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.pdb
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.genruntimeconfig.cache
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\ref\GrowingGuys_game.dll
+D:\Projects\c#\GrowingGuys_game\GrowingGuys_game\obj\Debug\net8.0-windows\GrowingGuys_game.Properties.Resources.resources
